@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="EET6_V18" typeText="类型" messageText="消息" timeText="时间">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:29:54">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="已开始升级" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:29:56" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:29:56">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:29:56" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:29:57">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair missing bidirectional links" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:29:57" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:29:57">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair clear segment flags" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:29:57" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:26">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="C0010:1015 Repair 'Comment' for DeviceDataObject 'S7-1200 station_1'. Comment object had no culture infos." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:26">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="C0010:1015 Repair 'Comment' for DeviceDataObject 'PC station'. Comment object had no culture infos." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:28">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="用户已使用所需的工程组态权限“升级项目”登录。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting removal of system role assignments compatibility from system device function rights" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Finished removal of system role assignments compatibility from system device function rights" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="正在移除旧的系统角色。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="移除旧的系统角色操作已完成。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="将删除不在支持的工程组态权限。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="不再支持的工程组态权限已删除。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="将删除系统定义的运行系统权限。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="删除系统运行系统权限已完成。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting change link between DFR and DFRSet" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Finished change link between DFR and DFRSet" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting data conversion workflow for umac entities i.e. System Role, EFR &amp; DFR" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:30:29">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Finished data conversion workflow for umac entities i.e. System Role, EFR &amp; DFR" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:35" Debug="false">
+    <Text>HmiConvert: Started conversion section.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:35" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Device.DeviceManagers.Scan:Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertHmiDeviceToV16&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:38" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Device.DeviceManagers.Scan:Siemens.Simatic.Hmi.Utah.Device.Upgrade.DeviceConverter.ConvertHmiDeviceToV16&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:38" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.HmiTextDataCategoryNameConvert.RepairTextCategoryName&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:38" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.HmiTextDataCategoryNameConvert.RepairTextCategoryName&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:38" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.TextCategoryConvert.CreateMissingTextCategoriesForLegacyDevices&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:38" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.TextCategoryConvert.CreateMissingTextCategoriesForLegacyDevices&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:38" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.MissingHmiControllerAlarmConverter.RepairHmiControllerAlarm&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:38" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.MissingHmiControllerAlarmConverter.RepairHmiControllerAlarm&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:38" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.ModernUI:Siemens.Simatic.Hmi.BL.ModernUI.Convert.ScreenItemPhaseConverter.AdaptModel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:48" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.ModernUI:Siemens.Simatic.Hmi.BL.ModernUI.Convert.ScreenItemPhaseConverter.AdaptModel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:48" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Styles.Managers.Scan:Siemens.Simatic.Hmi.Utah.Styles.HmiStyleConverter.ConvertHmiStyleFromV151ToV16&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Styles.Managers.Scan:Siemens.Simatic.Hmi.Utah.Styles.HmiStyleConverter.ConvertHmiStyleFromV151ToV16&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.HmiConnectionAutoRepairer.HmiConnectionAutoRepairs&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.HmiConnectionAutoRepairer.HmiConnectionAutoRepairs&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.Scripting.Scan:Siemens.Simatic.Hmi.BL.Scripting.Migrations.ModuleConverter.ModuleRepair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.Scripting.Scan:Siemens.Simatic.Hmi.BL.Scripting.Migrations.ModuleConverter.ModuleRepair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.ChainedListConverter.ConvertFixScreenChainedList&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.ChainedListConverter.ConvertFixScreenChainedList&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.PhaseConverter.RepairPointsCollectionOfScreenItems&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.PhaseConverter.RepairPointsCollectionOfScreenItems&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.OrphanedScreenUdtVersionInstance.Repair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.OrphanedScreenUdtVersionInstance.Repair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.PhaseConverter.BlockUpgradeForC0013Error&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.PhaseConverter.BlockUpgradeForC0013Error&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.OrphanedInterfaceConnection.Repair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.OrphanedInterfaceConnection.Repair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Tag.Managers.Scan:Siemens.Simatic.Hmi.BL.Tag.CheckRepair.Impl.CheckRepairErroneouslyCreatedSystemTagCopies.RemoveErroneouslyCreatedSystemTagCopies&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Tag.Managers.Scan:Siemens.Simatic.Hmi.BL.Tag.CheckRepair.Impl.CheckRepairErroneouslyCreatedSystemTagCopies.RemoveErroneouslyCreatedSystemTagCopies&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.PhaseConverter.MoveFontListsToDeviceLevel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.PhaseConverter.MoveFontListsToDeviceLevel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.OrphanedProcessValue.Repair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.OrphanedProcessValue.Repair&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.RuntimeIT.Managers.Scan:Siemens.Simatic.Hmi.Utah.RTSecurity.Upgrade.HmiRtSecurityRepair.RepairRtUserPasswordHash&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.RuntimeIT.Managers.Scan:Siemens.Simatic.Hmi.Utah.RTSecurity.Upgrade.HmiRtSecurityRepair.RepairRtUserPasswordHash&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.RuntimeIT.Managers.Scan:Siemens.Simatic.Hmi.Utah.RTSecurity.Upgrade.UpgradeSaltSettings.RepairSalt&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.RuntimeIT.Managers.Scan:Siemens.Simatic.Hmi.Utah.RTSecurity.Upgrade.UpgradeSaltSettings.RepairSalt&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:49" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.TextRepairForConvert.TextsRepairInHmiBusinessLogicLevel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:50" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.TextRepairForConvert.TextsRepairInHmiBusinessLogicLevel&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:50" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.PhaseConverter.RepairScreenModuleTagNames&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:50" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.ScreenModules.Managers.Scan:Siemens.Simatic.Hmi.Utah.Modules.ScreenModules.PhaseConverter.RepairScreenModuleTagNames&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:30:50" Debug="false">
+    <Text>HmiConvert is waiting for external dependency: Siemens.Simatic.Lang.SPLConvert</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:00">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Exam_Check”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:01">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Group_Control”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:01">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\cnt_waitime”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:01">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\compare_time”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:07">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Device_Mangement”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:07">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\assign_task”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:07">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\clear_task”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:08">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Protect”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:08">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\test”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:08">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Cyclic interrupt”- “General; Event”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:08">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Main”- “General; Event”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:08">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Start_Up”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Rest_Check”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Floor_Deal”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\LED”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Control_state”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Run_Control_2”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\updown_choice”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Btn_Deal”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Load_Deal”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Indicate”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\SystemBlocksFolder\ProgramResourcesFolder\Res”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\SystemBlocksFolder\ProgramResourcesFolder\R_TRIG_DB”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Var”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Elev”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Eet”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ProgramBlocksFolder\Plc”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ControllerDataTypeFolder\Button_Class”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ControllerDataTypeFolder\Elevator_Class”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ControllerDataTypeFolder\Variable”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="2023/4/23 0:31:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="项目元素：“\PLC\ControllerDataTypeFolder\Source”- “General”的校验和不一致." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:11" Debug="false">
+    <Text>HmiConvert: Started conversion section.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:11" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Tag.Managers.Scan:Siemens.Simatic.Hmi.Utah.Tag.RootTagConvertSynchronization.ResynchronizeRootTag&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Tag.Managers.Scan:Siemens.Simatic.Hmi.Utah.Tag.RootTagConvertSynchronization.ResynchronizeRootTag&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmDataConverterWithHmiBl.ConvertExistingUserDefinedCommonAndSystemAlarmClasses&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmDataConverterWithHmiBl.ConvertExistingUserDefinedCommonAndSystemAlarmClasses&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmDataConverterWithHmiBl.ConvertTagBitCombinationForILDevices&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmDataConverterWithHmiBl.ConvertTagBitCombinationForILDevices&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmPartnerIdConverter.RepairPartnerId&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Alarm.Managers.Scan:Siemens.Simatic.Hmi.Utah.Alarm.AlarmPartnerIdConverter.RepairPartnerId&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.Logging.Scan:Siemens.Simatic.Hmi.BL.Logging.Convert.LogConverter.Convert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.Logging.Scan:Siemens.Simatic.Hmi.BL.Logging.Convert.LogConverter.Convert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.BL.Scripting.Scan:Siemens.Simatic.Hmi.BL.Scripting.Migrations.ScriptReferenceBLConverter.ResolveScriptReferencesDuringConvert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.BL.Scripting.Scan:Siemens.Simatic.Hmi.BL.Scripting.Migrations.ScriptReferenceBLConverter.ResolveScriptReferencesDuringConvert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.ConnectionPropertiesRelatedToAlarmConverter.ConvertAlarmPropertiesForConnectionInUpgrade&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.ConnectionPropertiesRelatedToAlarmConverter.ConvertAlarmPropertiesForConnectionInUpgrade&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.ConvertV16.ConnectionPasswordConverter.AddPasswordToProtocolValues&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Communication.Managers.Scan:Siemens.Simatic.Hmi.Utah.Communication.ConvertV16.ConnectionPasswordConverter.AddPasswordToProtocolValues&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.PhaseConverter.RepairFontOfGroups&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.GraphX.GraphXManagers.Scan:Siemens.Simatic.Hmi.Utah.GraphX.PhaseConverter.RepairFontOfGroups&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.FontConvert.RepairScreenItemReferencesOnGlobalFontList&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Globalization.Managers.Scan:Siemens.Simatic.Hmi.Utah.Globalization.FontConvert.RepairScreenItemReferencesOnGlobalFontList&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Starting conversion step &lt;Siemens.Simatic.Hmi.Styles.Managers.Scan:Siemens.Simatic.Hmi.Utah.Styles.HmiStyleConverter.RepairStylesAfterConvert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion step &lt;Siemens.Simatic.Hmi.Styles.Managers.Scan:Siemens.Simatic.Hmi.Utah.Styles.HmiStyleConverter.RepairStylesAfterConvert&gt;.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:13" Debug="false">
+    <Text>HmiConvert: Finished conversion section.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:31:16">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="正在转换交叉引用信息。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:31:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="交叉引用信息已成功创建." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:31:17">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="交叉引用信息转换完成。" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:18" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.S7BSW.V15.1.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:18" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.S7PSW.V15.1.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:18" Debug="false">
+    <Text>Package container 'HW.S71500.CPU.CPU_1512C_1_PN.MDD_6ES7512-1CK00-0AB0_2.6_15.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:18" Debug="false">
+    <Text>Package container 'HW.S71500.RACK.MDD_6ES5xx-xxxxx-xxxx_1.0_15.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:18" Debug="false">
+    <Text>Package container 'HW.S71500.DEVICE.MDD_S71500-Device_1.0_15.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:18" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.SinemaEBasic:15.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:18" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:15.00.00.00' was deleted</Text>
+  </Details>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="2023/4/23 0:31:19">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="项目“C:\Users\Fmat\Desktop\plc230422\EET6\System\PEData.plf”已成功升级并另存为项目“C:\Users\Fmat\Desktop\plc230422\EET6_V18\System\PEData.plf”。" />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="2023/4/23 0:31:19">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="FinalCheckRemainingErrors" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="2023/4/23 0:31:19" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+</LogFile>
